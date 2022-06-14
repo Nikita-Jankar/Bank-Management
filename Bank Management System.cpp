@@ -21,7 +21,7 @@ public:
 // Function to open the account
 void Bank::open_account()
 {
-    name = "Aman Jhurani";
+    name = "Pratik Shendre";
     cout << "Enter your full name: "
          << name << endl;
     address = "Surat";
