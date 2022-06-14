@@ -24,7 +24,7 @@ void Bank::open_account()
     name = "Pratik Shendre";
     cout << "Enter your full name: "
          << name << endl;
-    address = "Surat";
+    address = "Yavatmal";
     cout << "Enter your address: "
          << address << endl;
     acc_type = 'S';
